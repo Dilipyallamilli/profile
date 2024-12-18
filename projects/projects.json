@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Car-Rentals",
+      "desc": "car rental website built using react.j, html, css. javascript. It is very easy to book car's",
+      "image":"regular",
+      "category": "young-girl-yellow-bomber-jacket-holding-gift-box-looking-happy",
+      "links": {
+        "view":"https://rental-cars-hyd-bb.vercel.app/",
+        "code": "https://github.com/Dilipyallamilli/rental-cars "
+      }
+    },
+    {
+      "name": "Taste-Haven",
+      "desc": "Foob website including delicious food items in this resturant, ready to use for orderfood.",
+      "image": "carrental",
+      "category": "reactjs",
+      "links": {
+        "view": "https://taste-haven-six.vercel.app/",
+        "code": "https://github.com/Dilipyallamilli/Taste-Haven"
+      }
+    },
+    {
+      "name": "Classic-Gym",
+      "desc": "its a simple gym website. using react.js javascript .",
+      "image":"",
+      "category": "reactjs",
+      "links": {
+        "view": "https://classic-gym.vercel.app/",
+        "code": "https://github.com/Dilipyallamilli/Classic-Gym"
+      }
+    },
+    {
+      "name": "Travel.com",
+      "desc": "Explore the world. because we have a small life so enjoy everymoment.",
+      "image": "reactprojects",
+      "category": "reactjs",
+      "links": {
+        "view": "https://earth-bound-travel-64n8vrz6l-dilipyallamillis-projects.vercel.app/",
+        "code": "https://github.com/Dilipyallamilli/Travel.com"
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "desc": "my portfolio i include all projects and education and skills",
+      "image": "",
+      "category": "reactjs",
+      "links": {
+        "view": "https://github.com/Dilipyallamilli/",
+        "code": "https://github.com/Dilipyallamilli"
+      }
+    },
+    {
+      "name": "house-consulting-services",
+      "desc": "Create a beautifull house consulting services webpage using react.js",
+      "image": "",
+      "category": "reactjs",
+      "links": {
+        "view": "https://github.com/Dilipyallamilli/",
+        "code": "https://github.com/Dilipyallamilli"
+      }
+    }
+]
